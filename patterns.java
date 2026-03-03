@@ -1,11 +1,11 @@
 public class patterns {
     public static void main(String[] args) {
-        // for(int i = 1; i <= 5; i++){
-        //     for(int j = 1; j <= 6; j++){
-        //         System.out.print("*");
-        //     }
-        //     System.out.println();
-        // }
+    //     for(int i = 1; i <= 5; i++){
+    //         for(int j = 1; j <= 6; j++){
+    //             System.out.print("*");
+    //         }
+    //         System.out.println();
+    //     }
         // int m=4;
         // int n=5;
         // for(int i=1;i<=m;i++){
@@ -41,17 +41,17 @@ public class patterns {
         //     System.out.println();
         // }
         // space pyramid
-        int m=5;
-        for(int i=1;i<=m;i++){
-            for(int j=1;j<=m-i;j++){
-                System.out.print(" ");
-            }
+        // int m=5;
+        // for(int i=1;i<=m;i++){
+        //     for(int j=1;j<=m-i;j++){
+        //         System.out.print(" ");
+        //     }
             
-            for(int j=1;j<=2*i-1;j++){
-                System.out.print("*");
-            }
-            System.out.println();
-        }
+        //     for(int j=1;j<=2*i-1;j++){
+        //         System.out.print("*");
+        //     }
+        //     System.out.println();
+        // }
         // int m=5;
         // for(int i=1;i<=m;i++){
         //     for(int j=1;j<=i-1;j++){
@@ -76,11 +76,14 @@ public class patterns {
         //     }
         //     System.out.println();
         // }
+
+        
         
 
         
     }
 }
+
 
         
    
